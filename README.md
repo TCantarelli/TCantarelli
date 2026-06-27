@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Thiago Cantarelli
 
-**`Programador e desenvolvedor full stack`**
+**`Programador de baixo nivel e desenvolvedor web`**
 
 Me chamo Thiago Cantarelli, estou cursando Sistemas de Informação na UTFPR. Adoro tecnologia desde sempre, amo fuçar e quebrar a cabeça para aprender coisas novas, e estou sempre tentando me aperfeiçoar no que gosto.
 
