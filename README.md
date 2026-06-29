@@ -1,8 +1,9 @@
 # 👩🏻‍💻 Thiago Cantarelli
 
-**`Programador de baixo nivel e desenvolvedor web`**
+**`Low-level programmer and web developer`**
 
-Me chamo Thiago Cantarelli, estou cursando Sistemas de Informação na UTFPR. Adoro tecnologia desde sempre, amo fuçar e quebrar a cabeça para aprender coisas novas, e estou sempre tentando me aperfeiçoar no que gosto.
+My name is Thiago Cantarelli, and I am studying Information Systems at UTFPR. I’ve always loved technology. I enjoy tinkering and figuring things out to learn new skills, and I am constantly striving to improve in the areas I’m passionate about.
+
 
 ---
 
